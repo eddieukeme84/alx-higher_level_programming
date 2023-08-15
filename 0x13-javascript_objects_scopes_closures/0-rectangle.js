@@ -1,7 +1,7 @@
 #!/usr/bin/node
-/**
- * Represents a rectangle
- */
-class Rectangle {}
-
-module.exports = Rectangle;
+Const rectangle = "0-rectangle" (required);
+Const r1="new Rectangle"();
+Console.log(Rectangle.construction);
+.class{
+       Rectangle
+      }
